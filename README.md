@@ -5,10 +5,12 @@ OK. Ahora estoy añadiendo algunos cambios a la rama principal.
 Supongamos que esto es código JavaScript:
 
 ```javascript
-var status = input("Introduzca su estado");
+var status = prompt("Introduzca su estado");
 
 if (status === "cansado") {
   sleep ();
+} else {
+  alert("A darle!");
 }
 
 function sleep() {
