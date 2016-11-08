@@ -16,8 +16,8 @@ if (status === "cansado") {
 function sleep() {
   setTimeout(
     function() {
-      console.log("Zzzzzzzzz");
-    }, 2.88e+7
+      console.log("Zzzzzzzzz... Amaneció!");
+    }, 2.88e+7 // Esto es una demora de 8 horas =)
   );
 }
 ```
