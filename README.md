@@ -4,6 +4,8 @@ Este es mi primer repositorio (de prueba). Lo usaré para aprender a usar GitHub
 OK. Ahora estoy añadiendo algunos cambios a la rama principal.
 Supongamosque esto es código:
 
+```
 if (status = "cansado") {
   function sleep ();
 }
+```
