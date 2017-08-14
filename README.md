@@ -21,3 +21,5 @@ function sleep() {
   );
 }
 ```
+
+Esta es una edición que se ha hecho desde la rama "pruebas". Al hacer un _commit_, se deben ver los cambios reflejados en la rama "master" o de producción.
